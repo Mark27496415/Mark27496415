@@ -2,7 +2,7 @@
 - 👀 I’m interested in the work of a python-developer at the junior level
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate wit different employers to develop varios projects in python
-- 📫 How to reach me
+- 📫 How to reach me: m83393769@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
